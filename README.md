@@ -1,0 +1,1 @@
+# system_autonomii_lotu_odporny_na_silne_wiatry
