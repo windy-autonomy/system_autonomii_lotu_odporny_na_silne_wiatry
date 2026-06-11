@@ -1,1 +1,17 @@
-# system_autonomii_lotu_odporny_na_silne_wiatry
+# SKNTI — System autonomii lotu odporny na silne wiatry
+
+**Projekt:** SKN/SP/631342/2025  
+**Cel:** autonomiczny system lotu dla UAV wspierający akcje poszukiwawcze po klęskach żywiołowych, odporny na zakłócenia spowodowane silnym wiatrem.
+
+---
+
+## Główne komponenty
+
+- **ADRC Control** — odporne sterowanie lotem przy zakłóceniach wiatrowych.
+- **PINN Training** — trenowanie modeli Physics-Informed Neural Networks.
+- **AoA Analysis** — analiza kąta natarcia i odpowiedzi aerodynamicznej.
+- **Pitot Analysis** — przetwarzanie danych pomiarowych prędkości przepływu.
+- **Motor Station** — narzędzia do testowania i analizy silnika odrzutowego.
+- **Windwall Data** — zestawy danych eksperymentalnych z testów na windwall.
+
+---
