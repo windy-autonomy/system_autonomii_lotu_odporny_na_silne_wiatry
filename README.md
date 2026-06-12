@@ -15,3 +15,7 @@
 - **Windwall Data** — zestawy danych eksperymentalnych z testów na windwall.
 
 ---
+
+<p align="center">
+  <img src="imgs/01_znak_siatka_podstawowy_kolor_biale_tlo.png" alt="Logo" width="300">
+</p>
